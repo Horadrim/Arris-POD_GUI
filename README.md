@@ -9,9 +9,9 @@ http://sourceforge.net/projects/jdatepicker/
 
 Here are some screenshots of the program:
 
-[![single day generator](https://raw.githubusercontent.com/Horadrim/Arris-POD_GUI/master/screnshots/singleday.jpg)](#GUI)
+[![single day generator](https://raw.githubusercontent.com/Horadrim/Arris-POD_GUI/master/screnshots/singleday.jpg)](#)
 
-[![date range generator](https://raw.githubusercontent.com/Horadrim/Arris-POD_GUI/master/screnshots/daterange.jpg)](#GUI)
+[![date range generator](https://raw.githubusercontent.com/Horadrim/Arris-POD_GUI/master/screnshots/daterange.jpg)](#)
 
 
 
