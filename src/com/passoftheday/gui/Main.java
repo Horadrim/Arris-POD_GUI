@@ -32,7 +32,7 @@ import java.util.Iterator;
 import java.util.List;
 import javax.swing.UIManager;
 import org.pushingpixels.substance.api.skin.SubstanceMistSilverLookAndFeel;
-
+import com.jtattoo.plaf.noire.*;
 
 
 
@@ -279,7 +279,8 @@ public class Main extends javax.swing.JFrame {
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
         try {
-          UIManager.setLookAndFeel(new SubstanceMistSilverLookAndFeel());
+          //UIManager.setLookAndFeel(new SubstanceMistSilverLookAndFeel());
+        	UIManager.setLookAndFeel("com.jtattoo.plaf.noire.NoireLookAndFeel");
         } catch (Exception e) {
           Dialogs.errException(e.toString(), "looks");
         }
